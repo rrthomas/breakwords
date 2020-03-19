@@ -1,5 +1,6 @@
 ///usr/bin/env go run $0 $@ ; exit
 // Adapted from https://rosettacode.org/wiki/Word_break_problem#Go
+// FIXME: cope with punctuation
 
 package main
 
